@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
 
-    cout >> "saya Makan";
-    cout >> "makan Sayur";
+    cout << "saya Makan";
+    cout << "makan Sayur";
+    cout << "sayur Asem";
 }
